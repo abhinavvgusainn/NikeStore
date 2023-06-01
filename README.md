@@ -1,16 +1,6 @@
-# nike_store
+Run pub get
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1685546832](https://github.com/abhinavvgusainn/NikeStore/assets/97800111/be2808de-9a94-489a-9269-0b343b4767ed)
+![Screenshot_1685546811](https://github.com/abhinavvgusainn/NikeStore/assets/97800111/cd532001-f6ab-48c7-958e-64e9510e94b8)
+![Screenshot_1685546840](https://github.com/abhinavvgusainn/NikeStore/assets/97800111/2727b8c8-d296-4383-8728-57414aa60aba)
