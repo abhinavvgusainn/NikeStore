@@ -3,7 +3,11 @@ import 'shoe.dart';
 class Cart {
   //LIST OF SHOES FOR SALE
   List<Shoe> shoeShop = [
-    
+    Shoe(
+        name: 'Flyease',
+        image: 'images/flyease.png',
+        price: '399',
+        desc: 'Futuristic design, Unique architecture'),
     Shoe(
         name: 'Air Jorden 1',
         image: 'images/air1high.png',
